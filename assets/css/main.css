@@ -2422,6 +2422,11 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.image.fit img > img:hover {
+  				width: 500px;
+  				height: 200px;
+			}
+
 /* List */
 
 	ol {
